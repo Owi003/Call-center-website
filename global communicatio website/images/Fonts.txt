@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Gandhi Serif
+Author: Librerias Gandhi S.A. de C.V.
+Url: http://www.fontsquirrel.com/fonts/gandhi-serif
+
+Font: Colus
+Author: Fontfabric
+Url: https://www.fontsquirrel.com/fonts/colus
